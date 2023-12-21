@@ -1,0 +1,28 @@
+div{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(224, 219, 213);
+    padding-top: 20px;
+}
+
+.rock
+{
+    height: 100px;
+    width: 100px;
+    background-image: url(Rock.png);
+    background-size: cover;
+}
+.paper
+{
+    height: 100px;
+    width: 100px;
+    background-image: url(Paper.png);
+    background-size: cover;
+}
+.scissor
+{
+    height: 100px;
+    width: 100px;
+    background-image: url(Scissors1.jpg);
+    background-size:cover;
+}
